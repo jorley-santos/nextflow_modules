@@ -1,7 +1,7 @@
 #!/usr/bin/env nextflow
 
 /*
- * Human DNA decontamination: Removindo reads that map to the human genome using BOWTIE 2 and Samtools.
+ * Human DNA decontamination: Removindo reads that map to the human genome using BOWTIE 2
  * BOWTIE2 is used to align the reads to human genome.
  */
 
